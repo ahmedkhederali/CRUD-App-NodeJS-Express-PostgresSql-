@@ -11,7 +11,11 @@
 
 
 ##USER=
-#HOST:
+
+#HOST=
+
 #DATABASE=
+
 #PASSWORD=
+
 #PORT=
