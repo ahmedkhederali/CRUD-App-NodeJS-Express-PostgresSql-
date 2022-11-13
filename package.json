@@ -1,0 +1,18 @@
+{
+  "name": "nodejs_postgresql",
+  "version": "1.0.0",
+  "description": "Recept Project",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "*",
+    "dotenv": "^16.0.3",
+    "express": "*",
+    "nodemon": "^2.0.20",
+    "pg": "*"
+  }
+}
